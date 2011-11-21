@@ -149,7 +149,7 @@ if &t_Co > 255
    hi Function        ctermfg=118
    hi Identifier      ctermfg=149
    hi Ignore          ctermfg=244 ctermbg=232
-   hi IncSearch       ctermfg=193 ctermbg=16
+   hi IncSearch       ctermfg=238 ctermbg=16
 
    hi Keyword         ctermfg=111               cterm=bold
    hi Label           ctermfg=229               cterm=none
@@ -162,10 +162,10 @@ if &t_Co > 255
    hi Operator        ctermfg=148
 
    " complete menu
-   hi Pmenu           ctermfg=137 ctermbg=233 cterm=none
-   hi PmenuSel        ctermfg=196 ctermbg=234 cterm=bold
-   hi PmenuSbar       ctermfg=000 ctermbg=233 cterm=none
-   hi PmenuThumb      ctermfg=137 ctermbg=235 cterm=none
+   hi Pmenu           ctermfg=137 ctermbg=234 cterm=none
+   hi PmenuSel        ctermfg=196 ctermbg=235 cterm=bold
+   hi PmenuSbar       ctermfg=000 ctermbg=234 cterm=none
+   hi PmenuThumb      ctermfg=137 ctermbg=236 cterm=none
 
    hi PreCondit       ctermfg=118               cterm=bold
    hi PreProc         ctermfg=218
